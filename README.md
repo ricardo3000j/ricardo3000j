@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricardo3000j
 - 👀 I’m interested in machine learning and datascience
-- 🌱 I’m currently learning analitycs with python
+- 🌱 I'm currently learning analytics with python
 - 💞️ I’m looking to collaborate on data processing 
 - 📫 How to reach me ...https://www.linkedin.com/in/ricardo-jarquin-8953b8223
 
