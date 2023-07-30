@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ricardo3000j
-- 👀 I’m interested in machine learning and datascience
-- 🌱 I'm currently learning analytics with python
-- 💞️ I’m looking to collaborate on data processing 
+- 👋 Hi, I’m Ricardo Jarquin, Software engineer 
+- 👀 I’m interested in backend development, data engineering and ML
+- 🌱 I'm currently learning microservices architecture
+- 💞️ I’m looking to collaborate in implementing backend applications with microservices
 - 📫 How to reach me ...https://www.linkedin.com/in/ricardo-jarquin-8953b8223
 
 <!---
